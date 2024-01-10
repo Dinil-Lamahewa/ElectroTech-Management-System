@@ -41,7 +41,7 @@ Designed with a layered architectural pattern for better modularity and maintain
 
 ## UI Design
 
-[Add a link to your UI design here]
+[Ui Design Link](https://www.figma.com/file/NweHGGlp4pcMOuBGMp4uAn/E%26E-Service-Center?type=design&node-id=0%3A1&mode=design&t=C6yalsSvCeHNiUl2-1)
 
 ## Dependencies Versions
 
@@ -68,4 +68,4 @@ Designed with a layered architectural pattern for better modularity and maintain
 
 ## License
 
-This project is licensed under the MIT License 
+This project is licensed under the MIT License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](link-to-license)
