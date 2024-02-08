@@ -1,14 +1,14 @@
 package edu.icet.electrottech_management_system.controller;
 
-import bo.custom.EmployeeBo;
-import bo.custom.OrderBo;
-import bo.custom.impl.EmployeeBoImpl;
-import bo.custom.impl.OrderBoImpl;
+import edu.icet.electrottech_management_system.bo.custom.EmployeeBo;
+import edu.icet.electrottech_management_system.bo.custom.OrderBo;
+import edu.icet.electrottech_management_system.bo.custom.impl.EmployeeBoImpl;
+import edu.icet.electrottech_management_system.bo.custom.impl.OrderBoImpl;
 import com.jfoenix.controls.JFXTextField;
-import dto.EmployeeDto;
-import dto.OrderDto;
-import dto.PointDto;
-import dto.SalesCordinateDto;
+import edu.icet.electrottech_management_system.dto.EmployeeDto;
+import edu.icet.electrottech_management_system.dto.OrderDto;
+import edu.icet.electrottech_management_system.dto.PointDto;
+import edu.icet.electrottech_management_system.dto.SalesCordinateDto;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

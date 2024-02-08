@@ -1,14 +1,14 @@
 package edu.icet.electrottech_management_system.controller;
 
-import bo.custom.*;
-import bo.custom.impl.*;
+import edu.icet.electrottech_management_system.bo.custom.*;
+import edu.icet.electrottech_management_system.bo.custom.impl.*;
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXTextField;
 import com.jfoenix.controls.JFXTreeTableView;
 import com.jfoenix.controls.RecursiveTreeItem;
 import com.jfoenix.controls.datamodels.treetable.RecursiveTreeObject;
-import dto.*;
-import dto.tm.OrderDetailsTm;
+import edu.icet.electrottech_management_system.dto.*;
+import edu.icet.electrottech_management_system.dto.tm.OrderDetailsTm;
 import javafx.animation.Animation;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;

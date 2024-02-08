@@ -1,14 +1,14 @@
 package edu.icet.electrottech_management_system.dao.custom.impl;
 
-import dao.DaoFactory;
-import dao.custom.OrderDao;
-import dao.custom.OrderDetailDao;
-import dao.util.DaoType;
-import dao.util.HibernateUtil;
-import db.DBConnection;
-import dto.OrderDetailDto;
-import dto.OrderDto;
-import entity.Orders;
+import edu.icet.electrottech_management_system.dao.DaoFactory;
+import edu.icet.electrottech_management_system.dao.custom.OrderDao;
+import edu.icet.electrottech_management_system.dao.custom.OrderDetailDao;
+import edu.icet.electrottech_management_system.dao.util.DaoType;
+import edu.icet.electrottech_management_system.dao.util.HibernateUtil;
+import edu.icet.electrottech_management_system.db.DBConnection;
+import edu.icet.electrottech_management_system.dto.OrderDetailDto;
+import edu.icet.electrottech_management_system.dto.OrderDto;
+import edu.icet.electrottech_management_system.entity.Orders;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.query.Query;

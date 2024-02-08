@@ -14,7 +14,7 @@ public class DBConnection {
     private DBConnection(){
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
-            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/e_eshop", "root", "Thiwanka2003");
+            connection = DriverManager.getConnection("jdbc:mysql://localhost:3306/e_eshop", "root", "1234");
 
         }catch (SQLIntegrityConstraintViolationException ex){
             new Alert(Alert.AlertType.ERROR,"Duplicate Entry").show();

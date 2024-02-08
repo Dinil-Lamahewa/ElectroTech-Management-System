@@ -1,11 +1,11 @@
 package edu.icet.electrottech_management_system.bo;
 
-import bo.custom.impl.CustomerBoImpl;
-import bo.custom.impl.EmployeeBoImpl;
-import bo.custom.impl.PartBoImpl;
-import bo.util.BoType;
-import dao.custom.impl.OrderDaoImpl;
-import dao.custom.impl.OrderDetailDaoImpl;
+import edu.icet.electrottech_management_system.bo.custom.impl.CustomerBoImpl;
+import edu.icet.electrottech_management_system.bo.custom.impl.EmployeeBoImpl;
+import edu.icet.electrottech_management_system.bo.custom.impl.PartBoImpl;
+import edu.icet.electrottech_management_system.bo.custom.util.BoType;
+import edu.icet.electrottech_management_system.dao.custom.impl.OrderDaoImpl;
+import edu.icet.electrottech_management_system.dao.custom.impl.OrderDetailDaoImpl;
 
 import java.sql.SQLException;
 

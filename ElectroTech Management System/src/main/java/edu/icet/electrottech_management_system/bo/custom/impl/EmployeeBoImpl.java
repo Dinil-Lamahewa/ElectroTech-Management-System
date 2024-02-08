@@ -1,11 +1,11 @@
 package edu.icet.electrottech_management_system.bo.custom.impl;
 
-import bo.custom.EmployeeBo;
-import dao.DaoFactory;
-import dao.custom.EmployeeDao;
-import dao.util.DaoType;
-import dto.EmployeeDto;
-import entity.Employee;
+import edu.icet.electrottech_management_system.bo.custom.EmployeeBo;
+import edu.icet.electrottech_management_system.dao.DaoFactory;
+import edu.icet.electrottech_management_system.dao.custom.EmployeeDao;
+import edu.icet.electrottech_management_system.dao.util.DaoType;
+import edu.icet.electrottech_management_system.dto.EmployeeDto;
+import edu.icet.electrottech_management_system.entity.Employee;
 
 import java.sql.SQLException;
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
 package edu.icet.electrottech_management_system.dao.util;
 
-import entity.*;
+import edu.icet.electrottech_management_system.entity.*;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.Metadata;

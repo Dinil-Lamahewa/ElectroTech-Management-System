@@ -1,9 +1,9 @@
 package edu.icet.electrottech_management_system.dao.custom.impl;
 
-import dao.custom.PartDao;
-import dao.util.HibernateUtil;
-import db.DBConnection;
-import entity.Part;
+import edu.icet.electrottech_management_system.dao.custom.PartDao;
+import edu.icet.electrottech_management_system.dao.util.HibernateUtil;
+import edu.icet.electrottech_management_system.db.DBConnection;
+import edu.icet.electrottech_management_system.entity.Part;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.query.Query;

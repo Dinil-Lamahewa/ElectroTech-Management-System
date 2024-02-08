@@ -1,6 +1,6 @@
 package edu.icet.electrottech_management_system.controller;
 
-import dto.OrderDto;
+import edu.icet.electrottech_management_system.dto.OrderDto;
 
 import java.sql.SQLException;
 

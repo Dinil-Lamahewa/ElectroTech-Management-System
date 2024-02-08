@@ -1,7 +1,7 @@
 package edu.icet.electrottech_management_system.bo.custom;
 
-import bo.CrudBo;
-import dto.ItemDto;
+import edu.icet.electrottech_management_system.bo.CrudBo;
+import edu.icet.electrottech_management_system.dto.ItemDto;
 
 public interface ItemBo extends CrudBo<ItemDto> {
 

@@ -1,0 +1,88 @@
+
+J
+java:S3740*"/Provide the parametrized type for this generic.(œÂùÿÿÿÿ
+J
+java:S3740+"/Provide the parametrized type for this generic.(¸ç€˜ÿÿÿÿÿ
+J
+java:S3740,"/Provide the parametrized type for this generic.(Íó’‡şÿÿÿÿ
+J
+java:S3740-"/Provide the parametrized type for this generic.(·Ëöúÿÿÿÿ
+E
+java:S3740."/Provide the parametrized type for this generic.(×’¤ß
+F
+java:S3740‚"/Provide the parametrized type for this generic.(Â±ŞÅ
+P
+java:S1141x"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ
+k
+java:S1104'"PMake pane a static final constant or non-public and provide accessors if needed.(‚áš´ùÿÿÿÿ
+u
+java:S1104("ZMake salesReportBtn a static final constant or non-public and provide accessors if needed.(÷ÉÒıÿÿÿÿ
+l
+java:S1104*"QMake colId a static final constant or non-public and provide accessors if needed.(œÂùÿÿÿÿ
+n
+java:S1104+"SMake colName a static final constant or non-public and provide accessors if needed.(¸ç€˜ÿÿÿÿÿ
+q
+java:S1104,"VMake colContact a static final constant or non-public and provide accessors if needed.(Íó’‡şÿÿÿÿ
+o
+java:S1104-"TMake colEmail a static final constant or non-public and provide accessors if needed.(·Ëöúÿÿÿÿ
+k
+java:S1104."UMake colDelete a static final constant or non-public and provide accessors if needed.(×’¤ß
+m
+java:S1104/"WMake customerTbl a static final constant or non-public and provide accessors if needed.(ığ…‡
+u
+java:S11040"_Make customerIdTextField a static final constant or non-public and provide accessors if needed.(¹è„Å
+o
+java:S11041"YMake nameTextField a static final constant or non-public and provide accessors if needed.(Šß¶
+w
+java:S11042"\Make contactTextField a static final constant or non-public and provide accessors if needed.(Ç“Ôõûÿÿÿÿ
+p
+java:S11043"ZMake emailTextField a static final constant or non-public and provide accessors if needed.(áÂÂÛ
+n
+java:S11044"SMake lblDate a static final constant or non-public and provide accessors if needed.(…“À„ÿÿÿÿÿ
+i
+java:S11045"SMake lblTime a static final constant or non-public and provide accessors if needed.(¿°×•
+>
+java:S5411E"(Use a primitive boolean expression here.(‰ñ€
+q
+java:S14507"[Remove the "allEmployees" field and declare it as a local variable in the relevant methods.(çøÊ„
+s
+java:S14509"]Remove the "positionStatus" field and declare it as a local variable in the relevant methods.(½·¤»
+>	java:S108S")Either remove or fill this block of code.(ßÈ´
+\
+java:S2147‰"ECombine this catch with the one at line 135, which has the same body.(ıàÑÎ
+B
+java:S1602r",Remove useless curly braces around statement(ë¹¬
+>	java:S108}")Either remove or fill this block of code.(”ı¾
+I
+java:S1172©"2Remove this unused method parameter "actionEvent".(‡Ê½
+N
+java:S1172µ"2Remove this unused method parameter "actionEvent".(ê¼û‰ıÿÿÿÿ
+I
+java:S1172Á"2Remove this unused method parameter "actionEvent".(Ëõ€Í
+N
+java:S1172Í"2Remove this unused method parameter "actionEvent".(Âñ ÿÿÿÿÿ
+N
+java:S1172Ù"2Remove this unused method parameter "actionEvent".(ş¾¦—ùÿÿÿÿ
+I
+java:S1172å"2Remove this unused method parameter "actionEvent".(÷´¤ù
+N
+java:S1172ñ"2Remove this unused method parameter "actionEvent".(íš§‰şÿÿÿÿ
+?	java:S108ø")Either remove or fill this block of code.(”ı¾
+N
+java:S1172ı"2Remove this unused method parameter "actionEvent".(óÃÆúÿÿÿÿ
+I
+java:S1172‰"2Remove this unused method parameter "actionEvent".(ùÀÁê
+N
+java:S1172•"2Remove this unused method parameter "actionEvent".(ÄŠñúÿÿÿÿ
+D	java:S108¥")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+I
+java:S1172®"2Remove this unused method parameter "actionEvent".(•íŸ’
+N
+java:S1172²"2Remove this unused method parameter "actionEvent".(ÀãØÿÿÿÿÿ
+D	java:S108¾")Either remove or fill this block of code.(¬Àáªøÿÿÿÿ
+n
+java:S3776Ô"RRefactor this method to reduce its Cognitive Complexity from 25 to the 15 allowed.(Ì¦¹€üÿÿÿÿ
+‘
+java:S2159Ø"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(õÅ©Ë
+b
+java:S5998Ÿ"LRefactor this repetition that can lead to a stack overflow for large inputs.(õæˆB

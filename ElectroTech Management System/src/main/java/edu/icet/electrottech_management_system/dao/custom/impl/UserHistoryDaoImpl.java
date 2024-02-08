@@ -1,8 +1,8 @@
 package edu.icet.electrottech_management_system.dao.custom.impl;
 
-import dao.custom.UserHistoryDao;
-import dao.util.HibernateUtil;
-import entity.UserHistory;
+import edu.icet.electrottech_management_system.dao.custom.UserHistoryDao;
+import edu.icet.electrottech_management_system.dao.util.HibernateUtil;
+import edu.icet.electrottech_management_system.entity.UserHistory;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 

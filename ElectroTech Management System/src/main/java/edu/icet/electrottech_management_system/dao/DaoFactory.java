@@ -1,7 +1,7 @@
 package edu.icet.electrottech_management_system.dao;
 
-import dao.custom.impl.*;
-import dao.util.DaoType;
+import edu.icet.electrottech_management_system.dao.custom.impl.*;
+import edu.icet.electrottech_management_system.dao.util.DaoType;
 
 public class DaoFactory {
     private  static  DaoFactory daoFactory;

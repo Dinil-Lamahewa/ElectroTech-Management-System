@@ -1,7 +1,7 @@
 package edu.icet.electrottech_management_system.dao.custom;
 
-import dao.CrudDao;
-import entity.Item;
+import edu.icet.electrottech_management_system.dao.CrudDao;
+import edu.icet.electrottech_management_system.entity.Item;
 
 public interface ItemDao extends CrudDao<Item> {
 

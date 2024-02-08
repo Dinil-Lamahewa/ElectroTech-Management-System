@@ -1,11 +1,11 @@
 package edu.icet.electrottech_management_system.controller;
 
-import bo.custom.EmployeeBo;
-import bo.custom.impl.EmployeeBoImpl;
+import edu.icet.electrottech_management_system.bo.custom.EmployeeBo;
+import edu.icet.electrottech_management_system.bo.custom.impl.EmployeeBoImpl;
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXTextArea;
 import com.jfoenix.controls.JFXTextField;
-import dto.EmployeeDto;
+import edu.icet.electrottech_management_system.dto.EmployeeDto;
 import javafx.animation.Animation;
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;

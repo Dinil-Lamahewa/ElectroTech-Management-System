@@ -1,8 +1,8 @@
 package edu.icet.electrottech_management_system.dao.custom.impl;
 
-import dao.custom.EmployeeDao;
-import dao.util.HibernateUtil;
-import entity.Employee;
+import edu.icet.electrottech_management_system.dao.custom.EmployeeDao;
+import edu.icet.electrottech_management_system.dao.util.HibernateUtil;
+import edu.icet.electrottech_management_system.entity.Employee;
 import org.hibernate.Session;
 import org.hibernate.Transaction;
 import org.hibernate.query.Query;

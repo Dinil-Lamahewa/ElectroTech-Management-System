@@ -1,8 +1,8 @@
 package edu.icet.electrottech_management_system.controller;
 
-import bo.custom.EmployeeBo;
-import bo.custom.impl.EmployeeBoImpl;
-import dto.EmployeeDto;
+import edu.icet.electrottech_management_system.bo.custom.EmployeeBo;
+import edu.icet.electrottech_management_system.bo.custom.impl.EmployeeBoImpl;
+import edu.icet.electrottech_management_system.dto.EmployeeDto;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Scene;

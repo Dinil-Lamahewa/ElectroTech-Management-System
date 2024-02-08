@@ -1,7 +1,7 @@
 package edu.icet.electrottech_management_system.dao.custom;
 
-import dao.CrudDao;
-import dto.OrderDto;
+import edu.icet.electrottech_management_system.dao.CrudDao;
+import edu.icet.electrottech_management_system.dto.OrderDto;
 
 public interface OrderDao extends CrudDao<OrderDto> {
 }

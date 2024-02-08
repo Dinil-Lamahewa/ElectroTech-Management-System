@@ -1,0 +1,13 @@
+
+D
+java:S1121".Extract the assignment out of this expression.(ùÊúö
+¯
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ûƒâ¤
+”
+java:S1130"~Remove the declaration of thrown exception 'java.lang.ClassNotFoundException', as it cannot be thrown from constructor's body.(î†€È
+‰
+java:S1130"sRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from constructor's body.(î†€È
+Q
+java:S2696"6Make the enclosing method "static" or remove this set.(é¸×Ëþÿÿÿÿ
+P
+java:S2209"5Change this instance-reference to a static reference.(é¸×Ëþÿÿÿÿ

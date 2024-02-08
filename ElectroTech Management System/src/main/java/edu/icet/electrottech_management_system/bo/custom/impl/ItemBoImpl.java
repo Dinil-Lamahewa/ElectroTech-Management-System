@@ -1,11 +1,11 @@
 package edu.icet.electrottech_management_system.bo.custom.impl;
 
-import bo.custom.ItemBo;
-import dao.DaoFactory;
-import dao.custom.ItemDao;
-import dao.util.DaoType;
-import dto.ItemDto;
-import entity.Item;
+import edu.icet.electrottech_management_system.bo.custom.ItemBo;
+import edu.icet.electrottech_management_system.dao.DaoFactory;
+import edu.icet.electrottech_management_system.dao.custom.ItemDao;
+import edu.icet.electrottech_management_system.dao.util.DaoType;
+import edu.icet.electrottech_management_system.dto.ItemDto;
+import edu.icet.electrottech_management_system.entity.Item;
 
 import java.sql.SQLException;
 import java.util.ArrayList;
