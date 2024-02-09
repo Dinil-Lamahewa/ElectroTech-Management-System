@@ -67,8 +67,8 @@
                         <RowConstraints maxHeight="86.33334350585938" minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
                     </rowConstraints>
                      <children>
-                        <JFXTextField fx:id="userNameTextField" focusColor="#f9aa33" labelFloat="true" promptText="User Name" style="-fx-prompt-text-fill: black; -fx-text-fill: white;" unFocusColor="BLACK" GridPane.rowIndex="1" />
-                        <JFXTextField fx:id="passwordTextField" focusColor="#f9aa33" labelFloat="true" promptText="Password" style="-fx-prompt-text-fill: black; -fx-text-fill: white;" unFocusColor="BLACK" GridPane.rowIndex="2" />
+                        <JFXTextField fx:id="userNameTextField" focusColor="#f9aa33" labelFloat="true" promptText="User Name" style="-fx-prompt-text-fill: black; -fx-text-fill: black;" unFocusColor="BLACK" GridPane.rowIndex="1" />
+                        <JFXTextField fx:id="passwordTextField" focusColor="#f9aa33" labelFloat="true" promptText="Password" style="-fx-prompt-text-fill: black; -fx-text-fill: black;" unFocusColor="BLACK" GridPane.rowIndex="2" />
                         <Label fx:id="otpContDown" prefHeight="35.0" prefWidth="156.0" style="-fx-alignment: center;" textFill="#f8f7f7" GridPane.rowIndex="3">
                            <font>
                               <Font size="15.0" />
@@ -163,5 +163,21 @@
          </font>
       </Label>
       <Label prefHeight="90.0" prefWidth="327.0" style="-fx-background-color: #8E5AE6;" textFill="WHITE" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+      <GridPane GridPane.columnIndex="3">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="252.0" minWidth="10.0" prefWidth="232.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="402.0" minWidth="10.0" prefWidth="166.0" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="402.0" minWidth="10.0" prefWidth="124.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints maxHeight="24.0" minHeight="10.0" prefHeight="18.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="53.0" minHeight="10.0" prefHeight="53.0" vgrow="SOMETIMES" />
+          <RowConstraints maxHeight="24.0" minHeight="5.0" prefHeight="14.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label fx:id="lblTime" prefHeight="38.0" prefWidth="148.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <Label fx:id="lblDate" prefHeight="41.0" prefWidth="100.0" GridPane.columnIndex="2" GridPane.rowIndex="1" />
+         </children>
+      </GridPane>
    </children>
 </GridPane>
